@@ -58,8 +58,8 @@
 .mobile {
     display: inline-block;
     color: white;
-    background-color: rgb(145, 79, 216);
-    border: 1px solid rgb(145, 79, 216);
+    background-color: rgb(217, 132, 27);
+    border: 1px solid rgb(217, 132, 27);
     border-radius: 15px;
     padding-left: 15px;
     padding-right: 15px;
@@ -70,8 +70,8 @@
 .website {
     display: inline-block;
     color: white;
-    background-color: rgb(145, 79, 216);
-    border: 1px solid rgb(145, 79, 216);
+    background-color: rgb(223, 58, 170);
+    border: 1px solid rgb(223, 58, 170);
     border-radius: 15px;
     padding-left: 15px;
     padding-right: 15px;
