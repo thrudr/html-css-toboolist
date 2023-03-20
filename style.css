@@ -44,17 +44,49 @@
 }
 
 .recruiting {
-
+    display: inline-block;
+    color: white;
+    background-color: rgb(79, 216, 145);
+    border: 1px solid rgb(79, 216, 145);
+    border-radius: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
 }
 
 .mobile {
-
+    display: inline-block;
+    color: white;
+    background-color: rgb(145, 79, 216);
+    border: 1px solid rgb(145, 79, 216);
+    border-radius: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
 }
 
 .website {
-
+    display: inline-block;
+    color: white;
+    background-color: rgb(145, 79, 216);
+    border: 1px solid rgb(145, 79, 216);
+    border-radius: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
 }
 
 .sale {
-
+    display: inline-block;
+    color: white;
+    background-color: rgb(145, 79, 216);
+    border: 1px solid rgb(145, 79, 216);
+    border-radius: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
 }
