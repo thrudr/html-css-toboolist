@@ -20,7 +20,15 @@
 }
 
 .edtorial {
-    
+    display: inline-block;
+    color: white;
+    background-color: rgb(79, 166, 216);
+    border: 1px solid rgb(79, 166, 216);
+    border-radius: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
 }
 
 .q1-goals {
